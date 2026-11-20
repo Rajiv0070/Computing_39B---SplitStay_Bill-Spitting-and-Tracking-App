@@ -29,6 +29,12 @@
             android:label="@string/title_activity_login"
             android:theme="@style/Theme.Bill_Split_and_Track_App"
             android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".FirstPageActivity"
+            android:exported="false"
+            android:label="@string/title_activity_first_page"
+            android:theme="@style/Theme.Bill_Split_and_Track_App"
+            android:windowSoftInputMode="adjustResize" />
     </application>
 
 </manifest>
